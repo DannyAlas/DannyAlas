@@ -17,10 +17,10 @@
 
 ## I'm working on:
 
-<a href="https://github.com/DannyAlas/swing-bot-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=swing-bot-js&theme=synthwave" />
+<a href="https://github.com/DannyAlas/2p-analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrootlab&repo=root-viewer&theme=synthwave" />
 </a>
 
-<a href="https://github.com/DannyAlas/2p-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=2p-analyzer&theme=synthwave" />
+<a href="https://github.com/DannyAlas/swing-bot-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=DGG-Everywhere&theme=synthwave" />
 </a>

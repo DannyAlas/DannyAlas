@@ -18,7 +18,7 @@
 ## I'm working on:
 
 <a href="https://github.com/DannyAlas/2p-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrootlab&repo=root-viewer&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrootlab&repo=SHARCQ&theme=synthwave" />
 </a>
 
 <a href="https://github.com/DannyAlas/swing-bot-js">

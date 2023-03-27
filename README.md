@@ -1,26 +1,28 @@
-## Check out my [website](https://danielalas.com):
+<p>
+  <img align=right src="https://komarev.com/ghpvc/?username=dannyalas&color=f88469" />
+  <a href="https://github.com/DannyAlas/DannyAlas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=69ddf8&duration=3000&pause=500&width=435&lines=Hi+There!;My+Name+is+Daniel!" alt="Intro SVG" />
+  </a>
+</p>
 
-<a href="https://github.com/DannyAlas/my-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=my-site&theme=synthwave" />
-</a>
+<p>
+  <a href="https://github.com/DannyAlas">
+   <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=dannyalas&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+  </a>
+  <a href="https://danielalas.com">
+    <img width=420 height=142 src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=my-site&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+  </a>
+</p>
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7000&color=69DDF8&repeat=false&width=435&lines=I'm+working+on.+.+." alt="Typing SVG" /></a>
 
-<a href="https://github.com/DannyAlas/my-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DannyAlas&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/DannyAlas/my-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyAlas&hide=ASP.NET&layout=compact&theme=synthwave" />
-</a>
 
----
-
-## I'm working on:
-
-<a href="https://github.com/DannyAlas/2p-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildrootlab&repo=SHARCQ&theme=synthwave" />
-</a>
-
-<a href="https://github.com/DannyAlas/swing-bot-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=DGG-Everywhere&theme=synthwave" />
-</a>
+<p align=center>
+  <a href="https://github.com/wildrootlab/SHARCQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildrootlab&repo=SHARCQ&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+  </a>
+  <a href="https://github.com/DannyAlas/swing-bot-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=DGG-Everywhere&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+  </a>
+  <br />
+</p>

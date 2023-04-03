@@ -1,6 +1,6 @@
 <p>
   <img align=right src="https://komarev.com/ghpvc/?username=dannyalas&color=f88469" />
-  <a href="https://github.com/DannyAlas/DannyAlas">
+  <a href="https://github.com/DannyAlas/typewriter">
    <img src="https://typewriter-orpin.vercel.app/typewriter/?font=Fira+Code&duration=2000&pause=500&color=69DDF8&center=false&width=435&lines=Hi+There!;My+Name+is+Daniel!" alt="Hi There!" />
   </a>
 </p>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7000&color=69DDF8&repeat=false&width=435&lines=I'm+working+on.+.+." alt="Typing SVG" /></a>
+<a href="https://github.com/DannyAlas/typewriter"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7000&color=69DDF8&repeat=false&width=435&lines=I'm+working+on.+.+." alt="Typing SVG" /></a>
 
 
 <p align=center>

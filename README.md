@@ -1,7 +1,7 @@
 <p>
   <img align=right src="https://komarev.com/ghpvc/?username=dannyalas&color=f88469" />
   <a href="https://github.com/DannyAlas/typewriter">
-   <img src="https://typewriter-orpin.vercel.app/typewriter/?font=Fira+Code&duration=2000&pause=500&color=69DDF8&center=false&width=435&lines=Hi+There!;My+Name+is+Daniel!" alt="Hi There!" />
+   <img src="https://api.danielalas.com/typewriter/?font=Fira+Code&duration=2000&pause=500&color=69DDF8&center=false&width=435&lines=Hi+There!;My+Name+is+Daniel!" alt="Hi There!" />
   </a>
 </p>
 

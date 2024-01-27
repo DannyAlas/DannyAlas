@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<a href="https://github.com/DannyAlas/typewriter"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7000&color=69DDF8&repeat=false&width=435&lines=I'm+working+on.+.+." alt="Typing SVG" /></a>
+<a href="https://github.com/DannyAlas/typewriter"><img src="https://api.danielalas.com/typewriter/?font=Fira+Code&pause=3000&color=69DDF8&repeat=false&width=435&lines=I'm+working+on.+.+." alt="Typing SVG" /></a>
 
 
 <p align=center>

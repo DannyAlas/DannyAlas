@@ -1,5 +1,5 @@
 <p>
-  <img align=right src="https://komarev.com/ghpvc/?username=dannyalas&color=f88469" />
+  <img align=right src="https://api.danielalas.com/profile-counter" />
   <a href="https://github.com/DannyAlas/typewriter">
    <img src="https://api.danielalas.com/typewriter/?font=Fira+Code&duration=2000&pause=500&color=69DDF8&center=false&width=435&lines=Hi+There!;My+Name+is+Daniel!" alt="Hi There!" />
   </a>
@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://github.com/DannyAlas">
-   <img width=420 height=142 src="https://api.danielalas.com/profile-counter" />
+   <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=dannyalas&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
   </a>
   <a href="https://danielalas.com">
     <img width=420 height=142 src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=my-site&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />

@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://github.com/DannyAlas">
-   <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=dannyalas&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+   <img width=420 height=142 src="https://api.danielalas.com/profile-counter" />
   </a>
   <a href="https://danielalas.com">
     <img width=420 height=142 src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=my-site&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />

@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildrootlab&repo=SHARCQ&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
   </a>
   <a href="https://github.com/DannyAlas/dgg-everywhere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=DGG-Everywhere&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannyAlas&repo=qt-vid-score&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
   </a>
   <br />
 </p>
